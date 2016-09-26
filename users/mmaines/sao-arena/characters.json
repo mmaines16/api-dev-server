@@ -1,0 +1,41 @@
+{
+  "characters": [
+    {
+      "id": 0,
+      "name": "Kirito",
+      "skills":
+        [
+          {
+          "id": 0,
+          "name": "Sword Skill Slash",
+          "damage": 25,
+          "energy":
+            [
+              {
+                "type": "skill",
+                "color": "red",
+                "amount": 1
+              },
+              {
+                "type": "random",
+                "color": "black",
+                "amount": 1
+              }
+            ]
+          },
+          {
+          "id": 1,
+          "name": "Block-Switch",
+          "damage": 0,
+          "energy":
+            [
+              {
+                "type": "green",
+                "amount": 1
+              }
+            ]
+          }
+        ]
+    }
+  ]
+}

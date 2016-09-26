@@ -1,0 +1,29 @@
+{
+  "energy": [
+    {
+      "id": 0,
+      "type": "physical",
+      "color": "green"
+    },
+    {
+      "id": 1,
+      "type": "skill",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "type": "magic",
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "type": "algorithm",
+      "color": "white"
+    },
+    {
+      "id": 4,
+      "type": "random",
+      "color": "black"
+    }
+  ]
+}

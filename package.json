@@ -1,0 +1,20 @@
+{
+  "name": "api-dev-server",
+  "version": "1.0.0",
+  "description": "Development Server to temporarily host api test data",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mason Maines",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.14.0",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "nodemon": "^1.10.2"
+  }
+}
